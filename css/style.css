@@ -21,6 +21,11 @@ h3 {
   position: relative;
   padding-top: 100px;
 }
+.middle-container {
+}
+
+.bottom-contain {
+}
 
 .top-cloud {
   position: absolute;
@@ -32,4 +37,20 @@ h3 {
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+
+.profile {
+  background-color: #a3d2ca;
+}
+
+.img_profile {
+  border-radius: 100%;
+  height: 300px;
+  width: 300px;
+}
+
+.img_skill {
+  border-radius: 100%;
+  height: 300px;
+  width: 300px;
 }
